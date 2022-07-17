@@ -3,7 +3,7 @@
 
 Here are few of things you need to know about me.
 
-- Experienced 🏆 Front End Developer, developing Websites/ Web Apps from Scratch / Convert into responsive HTML | CSS | JS | Bootstrap 4-5 | React |
+- Experienced 🏆 Front End Developer, developing Websites/ Web Apps from Scratch / Convert into responsive HTML | CSS | JS | Bootstrap 4-5 | React | Tailwind
 
 ✅ I used agile methodologies. A quick learner and with excellent English communication skills.
 
