@@ -3,7 +3,7 @@
 
 Here are few of things you need to know about me.
 
-- Experienced 🏆 Front End Developer, developing Websites/ Web Apps from Scratch / Convert into responsive HTML | CSS | JS | Bootstrap 4-5 | React | Tailwind
+- Experienced 🏆 MERN Stack Developer, developing Websites/ Web Apps from Scratch / Convert into responsive HTML | CSS | JS | Bootstrap 4-5 | React | MERN 
 
 ✅ I used agile methodologies. A quick learner and with excellent English communication skills.
 
@@ -11,10 +11,12 @@ Here are few of things you need to know about me.
 ✔ CSS
 ✔ JavaScript
 ✔ React | Redux | Axios
+✔ Node  | Express | Mongodb
 
 
-🌟 I value time and believe in delivering quality results for my clients worldwide. 
+
+🌟 I value time and believe in delivering quality results for my friends worldwide. 
 
 
-- ⚡ Fun fact: I enjoy writing code that make my clients life easier !
+- ⚡ What's next ? : Send me a message and let's see if we're a good fit 😎
 
